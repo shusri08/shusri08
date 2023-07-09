@@ -1,4 +1,4 @@
-![logo](https://github.com/shusri08/shusri08/blob/main/wp2406521.jpg)
+
 - <h1 align="center">Hi 👋, I'm Shubham Srivastava</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
